@@ -1,0 +1,4 @@
+fitz
+requests
+pandas
+PyMuPDF
